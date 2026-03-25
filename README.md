@@ -1,5 +1,7 @@
 # 🎬 Movie Recommendation System
 
+This project was created as part of learning and practice by following a YouTube tutorial.
+
 A **content-based movie recommendation system** built using **TF-IDF similarity**, **FastAPI**, and **TMDB API**.
 
 This project allows users to search for movies and get:
